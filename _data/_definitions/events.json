@@ -6,7 +6,7 @@
   "category": {
     "label": "Choose Category",
     "type": "model",
-    "display_field": "titles",
+    "display_field": "title",
     "model_name": "event_category"
   }
   }
